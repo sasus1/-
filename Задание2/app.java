@@ -1,4 +1,4 @@
-String str1 = new String("Flower");
+String str1 = new String("flower");
 String str1 = new String("flower");
 
 if (str1.equals(snr2)) {
